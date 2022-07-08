@@ -106,7 +106,7 @@
     "foreach-cli": "^1.8.1",
     "js-beautify": "^1.13.13",
     "jsdom": "^16.5.3",
-    "linkinator": "^2.13.6",
+    "linkinator": "^4.0.0",
     "minimist": "^1.2.5",
     "mkdirp": "^1.0.4",
     "node-sass": "^5.0.0",
