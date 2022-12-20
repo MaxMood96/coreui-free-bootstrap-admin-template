@@ -94,7 +94,7 @@
     "autoprefixer": "^10.2.5",
     "babel-eslint": "^10.1.0",
     "babel-plugin-transform-es2015-modules-strip": "^0.1.2",
-    "browser-sync": "^2.26.14",
+    "browser-sync": "^2.27.11",
     "chalk": "^4.1.1",
     "clean-css-cli": "^5.3.0",
     "copyfiles": "^2.4.1",
